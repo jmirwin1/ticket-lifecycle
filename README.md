@@ -27,10 +27,10 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h3 align="center">Intake</h3>
 <br />
 <p>
-  User Ken creates a ticket:
+  Lab User Ken goes to the end users osTicket URL(http://localhost/osTicket/) and creates a new ticket
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/isU4val.png" alt="Create Ticket"/>
 </p>
 <br />
 <br />
