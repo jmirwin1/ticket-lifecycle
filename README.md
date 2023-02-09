@@ -51,19 +51,7 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
   Agent John sees this ticket was given a normal priority, but given the level of business impact, he goes in to edit the ticket as a Sev-A emergency ticket and reassign it to a System Administrator. He makes sure to leave a proper message to systems administrator Jane Doe.
 </p>
 <p>
-</p>
-<br />
-<br />
-<h3 align="center">Communication</h3>
-<br />
-<p>
-  Agent John sees this is Sev-A emergency ticket and has to reassign ticket to a System Administrator.
-</p>
-<p>
-  He makes sure to leave a proper message:
-</p>
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/kLr9fjD.png" alt="Ticket Transfer"/>
 </p>
 <br />
 <br />
