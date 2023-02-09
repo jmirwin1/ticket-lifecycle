@@ -38,10 +38,10 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h3 align="center">Ticket assignment</h3>
 <br />
 <p>
-  Support agent John Doe logs in:
+  Agent John Doe logs in and sees he has a new ticket from Lab User Ken
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/jfInavO.png" alt="Online Banking Ticket"/>
 </p>
 <br />
 <br />
