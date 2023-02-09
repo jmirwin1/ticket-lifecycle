@@ -24,26 +24,81 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 
 <h2>Lifecycle Stages</h2>
 
+<h3 align="center">Intake</h3>
+<br />
+<p>
+  User Ken creates a ticket:
+</p>
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+<br />
+<h3 align="center">Ticket assignment</h3>
+<br />
+<p>
+  Support agent John Doe logs in:
+</p>
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+<br />
+<h3 align="center">Communication</h3>
+<br />
+<p>
+  Agent John sees this is Sev-A emergency ticket and has to reassign ticket to a System Administrator.
+</p>
+<p>
+  He makes sure to leave a proper message:
+</p>
+<p>
+</p>
+<br />
+<br />
+<h3 align="center">Communication</h3>
+<br />
+<p>
+  Agent John sees this is Sev-A emergency ticket and has to reassign ticket to a System Administrator.
+</p>
+<p>
+  He makes sure to leave a proper message:
+</p>
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<br />
+<br />
+<h3 align="center">Working the issue</h3>
+<br />
+<p>
+  System Administrator agent Jane Doe logs in:
+</p>
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+  Agent Jane works the issue and communicates back to agent John.
 </p>
-<br />
-
+<p>
+  She also makes sure to switch the status of the issue from open to resolved:
+</p>
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
+  </p>
 <br />
-
+<br />
+<h3 align="center">Resolution</h3>
+<br />
+<p>
+  Support agent John sees in his portal that System Administrator agent Jane has left him a message and that the ticket is now closed:>
+</p>
 <p>
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+  </p>
+<br />
+<br />
+<p>
+  And now we have completed a simple scenario of the creation of a ticket by a user, assignment and communication of a ticket between agents, and ultimately it's resolution.
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
