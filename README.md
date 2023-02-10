@@ -68,14 +68,15 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h3 align="center">Resolution</h3>
 <br />
 <p>
-  Support agent John sees in his portal that System Administrator agent Jane has left him a message and that the ticket is now closed:>
+ System Administrator Jane checks the ticket status and sees that the ticket is now closed
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/MOQUx6Y.png" alt="Resolved Issue"/>
+<img src="https://i.imgur.com/GUkcKZ2.png" alt="Ticket Closed"/>
   </p>
 <br />
 <br />
 <p>
-  And now we have completed a simple scenario of the creation of a ticket by a user, assignment and communication of a ticket between agents, and ultimately it's resolution.
+ Now we have completed a scenario of a ticket created by an end user, assigned, communicated, and updated between agents, and finally resolved.
 </p>
 <p>
