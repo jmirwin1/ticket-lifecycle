@@ -58,20 +58,11 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h3 align="center">Working the issue</h3>
 <br />
 <p>
-  System Administrator agent Jane Doe logs in:
+  System Administrator agent Jane Doe logs in, works the issue, and communicates back to Lab User Ken. She also makes sure to switch the status of the ticket from open to resolved.
 </p>
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/Ig8yVu0.png" alt="Resolved Ticket"/>
 </p>
-<p>
-  Agent Jane works the issue and communicates back to agent John.
-</p>
-<p>
-  She also makes sure to switch the status of the issue from open to resolved:
-</p>
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-  </p>
 <br />
 <br />
 <h3 align="center">Resolution</h3>
